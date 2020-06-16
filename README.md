@@ -1,2 +1,2 @@
-# Pre-Admisi-n
+# Pre-Admisión
 Juego de la Trivia
